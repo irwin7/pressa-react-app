@@ -1,0 +1,87 @@
+/* Din Pro */
+
+@font-face {
+  font-family: 'Din Pro';
+  src: url('./Din-pro/dinpro_light.otf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Din Pro';
+  src: url('./Din-pro/dinpro.otf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Din Pro';
+  src: url('./Din-pro/dinpro_medium.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Din Pro';
+  src: url('./Din-pro/dinpro_bold.otf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Din Pro';
+  src: url('./Din-pro/dinpro_black.otf');
+  font-weight: 900;
+}
+
+/* Infra */
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraThin.otf');
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraExtraLight.otf');
+  font-weight: 200;
+}
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraLight.otf');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraRegular.otf');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraMedium.otf');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraSemiBold.otf');
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraBold.otf');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraExtraBold.otf');
+  font-weight: 800;
+}
+
+@font-face {
+  font-family: 'Infra';
+  src: url('./Infra/InfraBlack.otf');
+  font-weight: 900;
+}
